@@ -12,7 +12,7 @@ Wer, wie ich, einfach gerne
 ... findet hier das
 
  * das Ger&uuml;st als Markdown file und die
- * Anweisungen, um das mit `pandoc` (mit Hilfe eines `reference-docs`) wieder in DFG style zu bringen (mit, insbesondere *Arial 11pt* und 1.2 fachem Zeilenabstand
+ * Anweisungen, um das mit [`pandoc`](https://pandoc.org/index.html) (mit Hilfe eines `reference-docs`) wieder in DFG style zu bringen (mit, insbesondere *Arial 11pt* und 1.2 fachem Zeilenabstand
  * und f&uuml;r, ggf., &Uuml;bersetzung nach `LaTeX` oder direkt ins chique [*Eisvogel pdf*](https://github.com/Wandmalfarbe/pandoc-latex-template/)
 
 ```sh
