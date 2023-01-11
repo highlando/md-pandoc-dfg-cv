@@ -58,62 +58,62 @@ In der akademischen Selbstverwaltung bin ich seit 2018 als stellv. Mitglied des 
 
 Mein genuines Interesse der Entwicklung des *Open Access Publizierens* manifestiert sich in meinem Amt als *Open Access Beauftragter* unseres Max-Planck-Instituts (seit 2015) und als *Forschungsdatenmanagement Beauftragter* in unserem Graduiertenkolleg (*MathCoRe*, DFG-GRK 2297, seit 2021).
 
-In der Lehre bin ich seit 2018 mit durchschnittlich 6 SWS im Mittel im Service, in Grundlagenvorlesungen, in Spezialvorlesungen und in Sommerschulen aktiv. Dazu kommt die Betreuung von Projekt--, Bachelor-- und Masterarbeiten.
+In der Lehre bin ich seit 2018 mit durchschnittlich 4 SWS im Mittel im Service, in Grundlagenvorlesungen, in Spezialvorlesungen und in Sommerschulen aktiv. Dazu kommt die Betreuung von Projekt--, Bachelor-- und Masterarbeiten.
 
-Zum wissenschaftlichen Austausch mit China trage ich seit 2016 regelm&auml;&szlig;ig durch Organisation internationaler Workshops (2016&2019), als Lehrender in Sommerschulen und, derzeit, als Zweitbetreuuer von 2 chinesischen PromotionsstudentInnen, die aktuell zum Austausch an unserem Max-Planck-Institut sind.
+Zum wissenschaftlichen Austausch mit China trage ich seit 2016 regelm&auml;&szlig;ig durch Organisation internationaler Workshops (2016&2019), als Lehrender in Sommerschulen und, derzeit, als Zweitbetreuer von 2 chinesischen PromotionsstudentInnen, die aktuell zum Austausch an unserem Max-Planck-Institut sind.
 
 ## Betreuung von Forschenden in frühen Karrierephasen
 
-Insgesamt habe ich drei abgeschlossene Promomotionen (2015--2018, 2018--2021, 2016--2021) betreut (zwei davon wegen noch fehlender formaler Qualifikation als *Zweitbetreuuer*). Zwei dieser DoktorandInnen sind aktuell in der Industrie besch&auml;ftigt (bei *Robert Bosch GmbH* und *Mitteldeutsche Netzgesellschaft mbH*) und einer als Postdoc an der Uni Wien, &Ouml;sterreich. Seit 2021 bin ich Erstbetreuer von zwei weiteren PromotionsstudentInnen.
+Insgesamt habe ich drei abgeschlossene Promotionen (2015--2018, 2018--2021, 2016--2021) betreut (zwei davon wegen noch fehlender formaler Qualifikation als *Zweitbetreuer*). Zwei dieser DoktorandInnen sind aktuell in der Industrie besch&auml;ftigt (bei *Robert Bosch GmbH* und *Mitteldeutsche Netzgesellschaft mbH*) und einer als Postdoc an der Uni Wien, &Ouml;sterreich. Seit 2021 bin ich Erstbetreuer von zwei weiteren PromotionsstudentInnen.
 
 # Wissenschaftliche Ergebnisse
 
 
 ## Kategorie A
 
-[1] *A low-rank solution method for Riccati equations with indefinite quadratic terms* (2022, mit P. Benner und S.W.R. Werner) [DOI:10.1007/s11075-022-01331-w](https://doi.org/10.1007/s11075-022-01331-w) – [arxiv:2111.06516](https://arxiv.org/abs/2111.06516)
+[1] *A low-rank solution method for Riccati equations with indefinite quadratic terms* (P. Benner, JH und S. Werner, 2022) [DOI:10.1007/s11075-022-01331-w](https://doi.org/10.1007/s11075-022-01331-w) – [arxiv:2111.06516](https://arxiv.org/abs/2111.06516)
 
-[2] *Robust output-feedback stabilization for incompressible flows using low-dimensional $H_\infty$ -controllers*. (2022, mit P. Benner und S. Werner) [DOI:10.1007/s10589-022-00359-x](https://doi.org/10.1007/s10589-022-00359-x)– [arxiv:2103.01608](https://arxiv.org/abs/2103.01608)
+[2] *Robust output-feedback stabilization for incompressible flows using low-dimensional $H_\infty$ -controllers*. (P. Benner, JH und S. Werner, 2022) [DOI:10.1007/s10589-022-00359-x](https://doi.org/10.1007/s10589-022-00359-x)– [arxiv:2103.01608](https://arxiv.org/abs/2103.01608)
 
-[3] *Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems*. (2021) [DOI:10.3934/mcrf.2021043](https://doi.org/10.3934/mcrf.2021043)– [arxiv:1911.00983](https://arxiv.org/abs/1911.00983)
+[3] *Convergence of Coprime Factor Perturbations for Robust Stabilization of Oseen Systems*. (JH, 2021) [DOI:10.3934/mcrf.2021043](https://doi.org/10.3934/mcrf.2021043)– [arxiv:1911.00983](https://arxiv.org/abs/1911.00983)
 
-[4] *Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations*. (2019, mit P. Benner und S. Werner) [DOI:10.1016/j.ifacol.2019.08.005](https://doi.org/10.1016/j.ifacol.2019.08.005)(Open Access)
+[4] *Robust Controller versus Numerical Model Uncertainties for Stabilization of Navier-Stokes Equations*. (P. Benner, JH und S. Werner, 2019) [DOI:10.1016/j.ifacol.2019.08.005](https://doi.org/10.1016/j.ifacol.2019.08.005) (Open Access)
 
-> In den Arbeiten [1--4] haben wir theoretische und numerische Aspekte des robusten Reglerentwurfs für hochdimensionale (und auch $\infty$-dimensionale) lineare dynamische Systeme untersucht. Im beantragten Projekt gedenken wir, die grundlegenden Ideen f&uuml;r lineare *parameter variierende* (LPV) Systeme zu untersuchen und die numerischen Ans&auml;tze zu &uuml;bertragen. In den gemeinsamen Arbeiten war mein Anteil im Wesentlichen die theoretische Ausarbeitung der Regelungsans&auml;tze und Systemdarstellungen sowie die Implementierung der Simulationen.
+> In den Arbeiten [1--4] haben wir theoretische und numerische Aspekte des robusten Reglerentwurfs für hochdimensionale (und auch $\infty$-dimensionale) lineare dynamische Systeme untersucht. Im beantragten Projekt gedenken wir, die grundlegenden Ideen f&uuml;r lineare *Parameter variierende* (LPV) Systeme zu untersuchen und die numerischen Ans&auml;tze zu &uuml;bertragen. In den gemeinsamen Arbeiten war mein Anteil im Wesentlichen die theoretische Ausarbeitung der Regelungsans&auml;tze und Systemdarstellungen sowie die Implementierung der Simulationen.
 
-[5] *Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback*. (2018, mit P. Benner) [DOI:10.1002/rnc.3949](https://doi.org/10.1002/rnc.3949)– [arxiv:1607.08441](https://arxiv.org/abs/1607.08441)
+[5] *Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback*. (P. Benner und JH, 2018) [DOI:10.1002/rnc.3949](https://doi.org/10.1002/rnc.3949)– [arxiv:1607.08441](https://arxiv.org/abs/1607.08441)
 
-[6] *Nonlinear Stabilizing Feedback Design for Incompressible Flows via Updated Riccati-based Gains*. (2017, mit P. Benner) [DOI:10.1109/CDC.2017.8263813](https://doi.org/10.1109/CDC.2017.8263813)
+[6] *Nonlinear Stabilizing Feedback Design for Incompressible Flows via Updated Riccati-based Gains*. (P. Benner und JH, 2017) [DOI:10.1109/CDC.2017.8263813](https://doi.org/10.1109/CDC.2017.8263813)
 
 > In den Arbeiten [5,6] haben wir die nicht linearen Anteile in den Zustandsgleichungen faktorisiert, sodass Reglerauslegung &uuml;ber sogenannte *state-dependent Riccati equations* (SDRE) m&ouml;glich waren. Basierend auf dem theoretischen Ergebnis, dass eine lokal (in der Zeit) uniforme punktweise (lineare) Stabilit&auml;t hinreichend f&uuml;r global (in der Zeit) Stabilit&auml;t ist, haben wir einen Algorithmus entwickelt der ebendas durch lineare Updates des Reglers erzielt. Im beantragten Projekt wird die verwendete Faktorisierung die Grundlage f&uuml;r die Formulierung nichtlinearer Systeme als (quasi) LPV Systeme sein. Diese Arbeiten basieren zu 90% auf meinen Beitr&auml;gen.
 
-[7] *Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems*. (2021 mit E. Zuazua) [DOI:10.1137/20M1356105](https://doi.org/10.1137/20M1356105)– [arxiv:2007.13621](https://arxiv.org/abs/2007.13621)
+[7] *Classical System Theory Revisited for Turnpike in Standard State Space Systems and Impulse Controllable Descriptor Systems*. (JH und E. Zuazua, 2021) [DOI:10.1137/20M1356105](https://doi.org/10.1137/20M1356105)– [arxiv:2007.13621](https://arxiv.org/abs/2007.13621)
 
 > In [7] haben wir klassische lineare Systemtheorie verwendet um das Konzept der *Turnpike* (dass, einfach gesagt, in Steuerungsproblemen mit gro&szlig;en aber endlichen Zeithorizonten die optimale L&ouml;sung die meiste Zeit in der N&auml;he einer station&auml;ren L&ouml;sung verweilt) f&uuml;r nicht beobachtbare und f&uuml;r Deskriptorsysteme zu untersuchen. Ein Bezug zu unserem Projekt ist dadurch gegeben, dass eine erfolgreiche Regelung des nichtlinearen Systems insbesondere die Faktorisierung sich einem statischen Zustand ann&auml;hert, der dann als *Turnpike* qualifiziert werden kann. Die Arbeit basiert zu 90% auf meinen Beitr&auml;gen.
 
-[8] *Convolutional Neural Networks for Very Low-dimensional LPV Approximations of Incompressible Navier-Stokes Equations*. (2022, P. Benner und R. Bahmani) [DOI:10.3389/fams.2022.879140](https://doi.org/10.3389/fams.2022.879140)
+[8] *Convolutional Neural Networks for Very Low-dimensional LPV Approximations of Incompressible Navier-Stokes Equations*. (JH, P. Benner und R. Bahmani, 2022) [DOI:10.3389/fams.2022.879140](https://doi.org/10.3389/fams.2022.879140) (Open Access)
 
-[9] *Operator inference and physics-based learning of low-dimensional models for incompressible flows*. (2022, mit P. Benner, P. Goyal, und I. P. Duff) [DOI:10.1553/etna_vol56s28](https://doi.org/10.1553/etna_vol56s28)– [arxiv:2010.06701](https://arxiv.org/abs/2010.06701)
+[9] *Operator inference and physics-based learning of low-dimensional models for incompressible flows*. (P. Benner, P. Goyal, JH und I. P. Duff, 2022) [DOI:10.1553/etna_vol56s28](https://doi.org/10.1553/etna_vol56s28)– [arxiv:2010.06701](https://arxiv.org/abs/2010.06701)
 
-[10] *Space-Time Galerkin POD with application in optimal control of semi-linear parabolic partial differential equations*. (2018, mit P. Benner und M. Baumann) [DOI:10.1137/17M1135281](https://doi.org/10.1137/17M1135281)– [arxiv:1611.04050](https://arxiv.org/abs/1611.04050)
+[10] *Space-Time Galerkin POD with application in optimal control of semi-linear parabolic partial differential equations*. (P. Benner, JH und M. Baumann, 2018) [DOI:10.1137/17M1135281](https://doi.org/10.1137/17M1135281)– [arxiv:1611.04050](https://arxiv.org/abs/1611.04050)
 
-> Die Arbeiten [8-10] beinhalten Ergebnisse zur Modellreduktion nichtlinearer Systeme, wie sie, in abgewandelter Form im beantragten Projekt eingesetzt werden sollen. Hierbei beschreiben [8,9], wie nichtlineare Ans&auml;tze vor allem bei sehr niedrigdimensionalen approximativen Parametrisierungen von Trajektorien vorteilhaft sind. In [8] haben wir au&szlig;erdem die Reduktion allein der Nichtlinearit&auml;ten untersucht, was ein wesentlicher Teil unseres Projektes sein wird. In [10] haben wir die bekannte POD methode in Hilbertr&auml;umen interpretiert. Diese Interpretation ist die Basis f&uuml;r Reduktionen, die konsistent mit der zugrundeliegenden PDE sind. In der praktischen Umsetzung im diskretisierten Problem, z.B. in [8], wird die Konsistenz durch passend gew&auml;hlte Normen erreicht. In diesen Arbeiten lagen meine Beitr&auml;ge Entwicklung der Ideen (vor allem in [8, 10], etwas weniger in [9]) als auch in der numerischen Umsetzung (in [8], etwas weniger in [9,10]).
+> Die Arbeiten [8-10] beinhalten Ergebnisse zur Modellreduktion nichtlinearer Systeme, wie sie, in abgewandelter Form im beantragten Projekt eingesetzt werden sollen. Hierbei beschreiben [8,9], wie nichtlineare Ans&auml;tze vor allem bei sehr niedrigdimensionalen approximativen Parametrisierungen von Trajektorien vorteilhaft sind. In [8] haben wir au&szlig;erdem die Reduktion allein der Nichtlinearit&auml;ten untersucht, was ein wesentlicher Teil unseres Projektes sein wird. In [10] haben wir die bekannte POD Methode in Hilbertr&auml;umen interpretiert. Diese Interpretation ist die Basis f&uuml;r Reduktionen, die konsistent mit der zugrundeliegenden PDE sind. In der praktischen Umsetzung im diskretisierten Problem, z.B. in [8], wird die Konsistenz durch passend gew&auml;hlte Normen erreicht. In diesen Arbeiten lagen meine Beitr&auml;ge Entwicklung der Ideen (vor allem in [8, 10], etwas weniger in [9]) als auch in der numerischen Umsetzung (in [8], etwas weniger in [9,10]).
 
 
 
 
 ## Kategorie B
 
-[a] `dolfin-navier-scipy`. *A Python interface between FEniCS for Finite Element discretizations of flow equations and Scipy for time integration, model reduction, or control algorithms*. (2014)
+[a] `dolfin-navier-scipy`. *A Python interface between FEniCS for Finite Element discretizations of flow equations and Scipy for time integration, model reduction, or control algorithms*. (JH, 2014)
  [DOI:10.5281/zenodo.3238622](https://doi.org/10.5281/zenodo.3238622)
 
-[b] *Example Setups of Navier–Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coeﬀicients*. (2017, mit M. Behr und P. Benner)
+[b] *Example Setups of Navier–Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coeﬀicients*. (M. Behr, P. Benner und JH, 2017)
 [DOI:10.5281/zenodo.834940](https://doi.org/10.5281/zenodo.834940) -- [arxiv:1707.08711](https://arxiv.org/abs/1707.08711)
 
 > Das Modellproblem f&uuml;r unser beantragtes Projekt wird die Steuerung von Str&ouml;mungen sein. F&uuml;r die Ortsdiskretisierungen werden wir Finite Elemente (FEM) verwenden und dabei auf das von mir entwickelte und gepflegte *Python* Interface zwischen der FEM Bibliothek *FEniCS* und *SciPy* (der Standard Bibliothek in *Python* f&uuml;r wissenschaftliches Rechnen) zur&uuml;ckgreifen. F&uuml;r einen direkten Einsatz in mathematischen Softwarepaketen wie *MATLAB*, haben wir f&uuml;r eine Reihe von Steuerungsproblemen und f&uuml;r verschieden feine Ortsdiskretisierungen die Koeffizienten, die Eingangs-- und Ausgangsoperatoren, und die Nichtlinearit&auml;t des Modells als Bilinearform realisiert und zur Verf&uuml;gung gestellt [b]. F&uuml;r unseren Antrag erm&ouml;glicht die Darstellung als Bilinearform unmittelbar die Interpretation der diskretisierten Str&ouml;munsgleichungen als *zustandsabh&auml;ngiger Koeffizient* (SDC) System und (nach Reduktion) die Darstellung als (niedrigdimensionales) LPV System.
 
-[c] *Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software*. (2016, mit J. Fehr, C. Himpe, und J. Saak)
- [DOI:10.3934/Math.2016.3.261](https://doi.org/10.3934/Math.2016.3.261)(Open Access)
+[c] *Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software*. (mit J. Fehr, JH, C. Himpe und J. Saak, 2016)
+ [DOI:10.3934/Math.2016.3.261](https://doi.org/10.3934/Math.2016.3.261) (Open Access)
 
 > In dieser Arbeit haben wir g&auml;ngige Konzepte der Reproduzierbarkeit und Wiederverwendbarkeit von Forschungsergebnissen f&uuml;r numerische Simulationen spezifiziert und exemplifiziert. Diese universellen Konzepte und konkreten Realisierungen, werden auch die Basis f&uuml;r das Forschungsdatenmanagement im beantragten Projekt sein. Diese Arbeit haben wir in gleichen Anteilen erstellt, wobei mein Beitrag mehr auf dem konzeptuellen Teil als auf der praktischen Ausgestaltung lag.
 
@@ -126,7 +126,7 @@ Seit 2021 bin ich gew&auml;hltes Mitglied des *MaRDI Councils*, ein Gremium, das
 
 # Datenschutz und Einwilligung in die Verarbeitung optionaler Angaben
 
-\[ \] **Ich willige ausdrücklich in die Verarbeitung der freiwilligen
+\[x\] **Ich willige ausdrücklich in die Verarbeitung der freiwilligen
 (optionalen) Angaben, einschließlich „besonderer Kategorien
 personenbezogener Daten" zum Zwecke der Prüfung und Entscheidung über
 meinen Antrag durch die DFG ein.** Dies beinhaltet auch die
